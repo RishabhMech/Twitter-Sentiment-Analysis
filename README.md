@@ -1,1 +1,1 @@
-# Twitter-Sentiment-Analysis
+Given the tweets from certain twitter handles, the task is to identify if these tweets have a negative sentiment towards such companies or products. The inputs to this SVC Classifier model are the tweets from customers about various tech firms who manufacture and sell mobiles, computers, laptops, etc, and the two identified classification 'review' classes are as P- positive, H- Hate reviews. Important attributes are systematically visualized.
